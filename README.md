@@ -1,4 +1,4 @@
-#INSTRUCTIONS FOR INSTALLING CILASPAL 3.0 AND TROUBLESHOOTING
+# INSTRUCTIONS FOR INSTALLING CILASPAL 3.0 AND TROUBLESHOOTING
 
 To start, you must ensure that you have the latest version of Python installed on your computer. You can download or upgrade to the current version at https://www.python.org/downloads/
 
